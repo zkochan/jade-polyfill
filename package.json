@@ -1,0 +1,30 @@
+{
+  "name": "jade-polyfill",
+  "version": "0.1.0",
+  "description": "Contains all the required polyfills for Jade to work on IE8.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkochan/jade-polyfill.git"
+  },
+  "keywords": [
+    "jade",
+    "polyfill"
+  ],
+  "author": {
+    "name": "Zoltan Kochan",
+    "email": "zoltan.kochan@gmail.com",
+    "url": "http://kochan.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zkochan/jade-polyfill/issues"
+  },
+  "homepage": "https://github.com/zkochan/jade-polyfill#readme",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  }
+}
